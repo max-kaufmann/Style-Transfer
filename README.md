@@ -4,7 +4,7 @@ My implementation of neural style transfer, as described in  Leon A. Gatys’ pa
 
 To run the style transfer, sipmly execute the command:
 
-"./training.py <picture1> <picture2> <num_iterations>" 
+"./training.py picture1 picture2 num_iterations" 
 
 where picture1 is the base content image, picture2 is the target image and num_iterations
 describes how many times the optimisation loop is ran.
