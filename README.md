@@ -8,3 +8,5 @@ To run the style transfer, sipmly execute the command:
 
 where picture1 is the base content image, picture2 is the target image and num_iterations
 describes how many times the optimisation loop is ran.
+
+Also included is a short piece I did on some art I enjoy.
